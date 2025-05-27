@@ -79,7 +79,7 @@ out
 
 # Nuxt.js build output
 .nuxt
-dist
+# dist  <- Comment out or delete this line
 
 # SvelteKit build output
 .svelte-kit
